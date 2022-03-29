@@ -3,6 +3,8 @@ kind: Component
 metadata:
   name: Corvus.Testing
   description: Corvus.Testing library
+  annotations:
+    github.com/project-slug: endjin-test-org/Corvus.Testing
 spec:
   type: library
   lifecycle: production
